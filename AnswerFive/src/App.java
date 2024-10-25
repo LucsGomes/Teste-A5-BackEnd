@@ -3,6 +3,6 @@ public class App {
         Audi ttrs = new Audi();
         ttrs.accelerate(20);
         ttrs.breakCar(1);
-        System.err.println(ttrs.getCurrentSpeed());
+        System.out.println(ttrs.getCurrentSpeed());
     }
 }
